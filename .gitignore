@@ -1,0 +1,21 @@
+# Ignore log file
+app.log
+
+# Ignore build directory and its contents
+build/
+
+# Ignore dist directory and its contents
+dist/
+
+
+# Ignore the main.spec file
+main.spec
+
+# Ignore the test.db file
+test.db
+
+# Ignore venv directory and its contents
+venv/
+
+#I guess ignore cache subfolders
+__pycache__/
