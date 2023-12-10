@@ -23,7 +23,7 @@ from core.Handlers.add_ques import enterQuestion, enterAnswer1, enterAnswer2, en
 from core.States.StatesForms import StateForm
 from aiogram.fsm.context import FSMContext
 
-TOKEN = "6753405500:AAF0gpXNEriyZmwf3x5j8MLZ6wqBmfoPUCI"
+TOKEN = "************"
 
 async def main() -> None:
     #Database section
